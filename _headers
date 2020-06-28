@@ -1,0 +1,123 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-0097d26fbd474b34ff9b.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.da825f52ff3b373782c3.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-c2fe8482057191dca484.js
+  Cache-Control: public, max-age=31536000, immutable
+/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js
+  Cache-Control: public, max-age=31536000, immutable
+/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-project-tsx-9f12f9ac7735851529c3.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-tsx-401fb92f8adf87fb6bc0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-tsx-934fadd4365b25395ea1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-instagram-tsx-9b75e6c76609cd50a556.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-projects-tsx-9af2c50754cd34a0cc31.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-38d581f8462b3f4ecb10.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-95b680cb3190aa9bfe59.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-8d74066b08caf253f9eb.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/github-pages/offline-plugin-app-shell-fallback/
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/component---cache-caches-gatsby-plugin-offline-app-shell-js-0097d26fbd474b34ff9b.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/color-in-all-its-glory
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-templates-project-tsx-9f12f9ac7735851529c3.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/color-in-all-its-glory/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/extreme-neon-what-is-this-trend-about
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-templates-project-tsx-9f12f9ac7735851529c3.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/extreme-neon-what-is-this-trend-about/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/black-and-white-superb-art
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-templates-project-tsx-9f12f9ac7735851529c3.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/black-and-white-superb-art/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/breakfast
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-templates-project-tsx-9f12f9ac7735851529c3.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/breakfast/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/about/
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/component---src-pages-about-tsx-401fb92f8adf87fb6bc0.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-pages-index-tsx-934fadd4365b25395ea1.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/instagram/
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-pages-instagram-tsx-9b75e6c76609cd50a556.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/instagram/page-data.json>; rel=preload; as=fetch; crossorigin
+/github-pages/projects/
+  Link: </github-pages/webpack-runtime-38d581f8462b3f4ecb10.js>; rel=preload; as=script
+  Link: </github-pages/framework-95b680cb3190aa9bfe59.js>; rel=preload; as=script
+  Link: </github-pages/app-8d74066b08caf253f9eb.js>; rel=preload; as=script
+  Link: </github-pages/styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </github-pages/0efb7b9a74cbd3d824ef097bbc36db52f6e10f31-4b044abb70bc50ce54f9.js>; rel=preload; as=script
+  Link: </github-pages/8e498455de3b461e2c0331b8de7b850160b6b4e6-8549802a33775b0ff727.js>; rel=preload; as=script
+  Link: </github-pages/component---src-pages-projects-tsx-9af2c50754cd34a0cc31.js>; rel=preload; as=script
+  Link: </github-pages/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </github-pages/page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin

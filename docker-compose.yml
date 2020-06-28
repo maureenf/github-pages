@@ -1,0 +1,9 @@
+version: "3"
+services:
+  web:
+    build: .
+    volumes:
+      - .:/var/www/gatsby
+    ports:
+      - "8000:8000"
+    entrypoint: "gatsby develop -H 0.0.0.0"

@@ -25,7 +25,7 @@
     "test": "npm-run-all -s test:compile server:run",
     "test:watch": "npm-run-all -p test:compile:watch server:open",
     "test:ci": "npm-run-all -s test:compile server:ci",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/maureenwonderland/github-pages.git"
+    "deploy": "gh-pages -d public -r https://$GH_TOKEN@github.com/maureenwonderland/github-pages.git"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
